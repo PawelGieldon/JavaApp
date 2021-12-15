@@ -19,4 +19,4 @@ Project is not finished, im currently working on adding some very cool options l
 ### Other options ![screenjava3](https://user-images.githubusercontent.com/93713186/146205099-d1c8f4dc-e75a-4d44-8df4-f88de12e2005.png)
 
 ## Contact
-pawel.gieldon01@gmail.com
+How to reach me? Here is my e-mail: pawel.gieldon01@gmail.com
