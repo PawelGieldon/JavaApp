@@ -3,7 +3,7 @@
 
 ## Description 
 This app can be used in store by users for buying. There are many options like withdraw or deposit money, buy or sell items.
-We can check also how many items we have in our account.
+We can also check how many items we have in our account.
 
 
 ## Technologies
